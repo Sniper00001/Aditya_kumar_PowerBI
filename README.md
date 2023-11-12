@@ -1,2 +1,2 @@
 # Aditya_kumar_repository
-this is my first repository , so its going to be basic and easy 
+In this repositor in going to upload all of my Power bi porjects 
